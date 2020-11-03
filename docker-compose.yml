@@ -1,0 +1,7 @@
+version: '3'
+services:
+    telent:
+        build: .
+        ports:
+            - "10023:23"
+        privileged: true

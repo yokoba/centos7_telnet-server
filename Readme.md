@@ -1,0 +1,1 @@
+Docker CentOS7でtelnet-serverを自動で立ち上げる
